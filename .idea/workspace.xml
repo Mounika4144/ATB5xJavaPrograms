@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="" />
+    <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/basics_03_016Dec/Lab0030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_03_016Dec/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_03_016Dec/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_03_016Dec/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_03_016Dec/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics_03_016Dec/Lab031.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/basics_03_016Dec/Lab024.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/basics_03_016Dec/Lab024.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -30,6 +43,7 @@
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
+    "Application.Lab0030.executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab005.executor": "Run",
     "Application.Lab006.executor": "Run",
@@ -50,18 +64,25 @@
     "Application.Lab022.executor": "Run",
     "Application.Lab023.executor": "Run",
     "Application.Lab024.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Debug",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab031.executor": "Run",
     "Application.Labo014.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab024">
-    <configuration name="Lab020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab020" />
+  <component name="RunManager" selected="Application.Lab031">
+    <configuration name="Lab0030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab0030" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab021" />
+    <configuration name="Lab027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab027" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab022" />
+    <configuration name="Lab028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab028" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab023" />
+    <configuration name="Lab029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab029" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab024" />
+    <configuration name="Lab031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_03_016Dec.Lab031" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab024" />
-        <item itemvalue="Application.Lab023" />
-        <item itemvalue="Application.Lab022" />
-        <item itemvalue="Application.Lab021" />
-        <item itemvalue="Application.Lab020" />
+        <item itemvalue="Application.Lab031" />
+        <item itemvalue="Application.Lab0030" />
+        <item itemvalue="Application.Lab029" />
+        <item itemvalue="Application.Lab028" />
+        <item itemvalue="Application.Lab027" />
       </list>
     </recent_temporary>
   </component>
@@ -152,5 +173,16 @@
       <updated>1710235835885</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
