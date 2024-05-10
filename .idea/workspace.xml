@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -84,6 +83,8 @@
     "Application.Lab048.executor": "Run",
     "Application.Lab049.executor": "Run",
     "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
     "Application.Labo014.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -101,20 +102,7 @@
       <recent name="C:\Users\mouni\IdeaProjects\ATB5xjavaprograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab051">
-    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_06_24Dec.Lab047" />
-      <module name="ATB5xjavaprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_06_24Dec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab052">
     <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_06_24Dec.Lab048" />
       <module name="ATB5xjavaprograms" />
@@ -167,13 +155,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.Lab052" />
+      <module name="ATB5xjavaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Oops_07_20Dec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab052" />
         <item itemvalue="Application.Lab051" />
         <item itemvalue="Application.Lab050" />
         <item itemvalue="Application.Lab049" />
         <item itemvalue="Application.Lab048" />
-        <item itemvalue="Application.Lab047" />
       </list>
     </recent_temporary>
   </component>
