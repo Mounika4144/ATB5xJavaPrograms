@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/CelsiusTofahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab056.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ASCII.executor": "Run",
+    "Application.CelsiusTofahrenheit.executor": "Run",
+    "Application.Circle.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -85,7 +92,14 @@
     "Application.Lab050.executor": "Run",
     "Application.Lab051.executor": "Run",
     "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
     "Application.Labo014.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.Square.executor": "Debug",
+    "Application.SwapNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -102,13 +116,13 @@
       <recent name="C:\Users\mouni\IdeaProjects\ATB5xjavaprograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab052">
-    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_06_24Dec.Lab048" />
+  <component name="RunManager" selected="Application.SwapNumbers">
+    <configuration name="ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.ASCII" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_06_24Dec.*" />
+          <option name="PATTERN" value="src.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.Lab049" />
+    <configuration name="CelsiusTofahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.CelsiusTofahrenheit" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Oops_07_20Dec.*" />
+          <option name="PATTERN" value="src.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.Lab050" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Circle" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Oops_07_20Dec.*" />
+          <option name="PATTERN" value="src.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.Lab051" />
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Square" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Oops_07_20Dec.*" />
+          <option name="PATTERN" value="src.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.Lab052" />
+    <configuration name="SwapNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.SwapNumbers" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Oops_07_20Dec.*" />
+          <option name="PATTERN" value="src.JavaPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab052" />
-        <item itemvalue="Application.Lab051" />
-        <item itemvalue="Application.Lab050" />
-        <item itemvalue="Application.Lab049" />
-        <item itemvalue="Application.Lab048" />
+        <item itemvalue="Application.SwapNumbers" />
+        <item itemvalue="Application.CelsiusTofahrenheit" />
+        <item itemvalue="Application.ASCII" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Square" />
       </list>
     </recent_temporary>
   </component>
@@ -236,5 +250,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="2" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
