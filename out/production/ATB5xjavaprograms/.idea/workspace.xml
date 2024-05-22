@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Lab054.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Lab055.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/School.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/LargestAmongThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/XpowerY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Grandfather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/School.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/ASCII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/SwapNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/SwapNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/SwapNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/SwapNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,85 +50,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Circle.executor": "Run",
-    "Application.Lab001.executor": "Run",
-    "Application.Lab002.executor": "Run",
-    "Application.Lab003.executor": "Run",
-    "Application.Lab0030.executor": "Run",
-    "Application.Lab004.executor": "Run",
-    "Application.Lab005.executor": "Run",
-    "Application.Lab006.executor": "Run",
-    "Application.Lab007.executor": "Run",
-    "Application.Lab008.executor": "Run",
-    "Application.Lab009.executor": "Run",
-    "Application.Lab010.executor": "Run",
-    "Application.Lab011.executor": "Run",
-    "Application.Lab012.executor": "Run",
-    "Application.Lab013.executor": "Run",
-    "Application.Lab015.executor": "Run",
-    "Application.Lab016.executor": "Run",
-    "Application.Lab017.executor": "Run",
-    "Application.Lab018.executor": "Run",
-    "Application.Lab019.executor": "Run",
-    "Application.Lab020.executor": "Run",
-    "Application.Lab021.executor": "Run",
-    "Application.Lab022.executor": "Run",
-    "Application.Lab023.executor": "Run",
-    "Application.Lab024.executor": "Run",
-    "Application.Lab025.executor": "Run",
-    "Application.Lab026.executor": "Debug",
-    "Application.Lab027.executor": "Run",
-    "Application.Lab028.executor": "Run",
-    "Application.Lab029.executor": "Run",
-    "Application.Lab031.executor": "Run",
-    "Application.Lab032.executor": "Run",
-    "Application.Lab033.executor": "Run",
-    "Application.Lab034.executor": "Run",
-    "Application.Lab035.executor": "Run",
-    "Application.Lab036.executor": "Run",
-    "Application.Lab037.executor": "Run",
-    "Application.Lab038.executor": "Debug",
-    "Application.Lab039.executor": "Run",
-    "Application.Lab040.executor": "Run",
-    "Application.Lab041.executor": "Run",
-    "Application.Lab042.executor": "Run",
-    "Application.Lab043.executor": "Run",
-    "Application.Lab044.executor": "Debug",
-    "Application.Lab045.executor": "Run",
-    "Application.Lab047.executor": "Run",
-    "Application.Lab048.executor": "Run",
-    "Application.Lab049.executor": "Run",
-    "Application.Lab050.executor": "Run",
-    "Application.Lab051.executor": "Run",
-    "Application.Lab052.executor": "Run",
-    "Application.Lab053.executor": "Run",
-    "Application.Lab054.executor": "Run",
-    "Application.Lab055.executor": "Run",
-    "Application.Lab056.executor": "Run",
-    "Application.Labo014.executor": "Run",
-    "Application.Rectangle.executor": "Run",
-    "Application.Square.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mouni/IdeaProjects/ATB5xjavaprograms/src/basics",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ASCII.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CelsiusTofahrenheit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0030.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab026.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab034.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab036.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab037.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab038.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab039.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab040.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab041.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab042.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab044.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab045.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab049.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab053.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Labo014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestAmongThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNoInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddorEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositiveNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuadraticEquation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Square.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.SquareofN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VowelorConsonant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XpowerY.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mouni/IdeaProjects/ATB5xjavaprograms/src/basics&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mouni\IdeaProjects\ATB5xjavaprograms\src\basics" />
       <recent name="C:\Users\mouni\IdeaProjects\ATB5xjavaprograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Circle">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Circle" />
+  <component name="RunManager" selected="Application.LargestAmongThree">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Factorial" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -126,34 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.oops_06_Jan_2024.Lab055" />
-      <module name="ATB5xjavaprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.oops_06_Jan_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.oops_06_Jan_2024.Lab056" />
-      <module name="ATB5xjavaprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.oops_06_Jan_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Rectangle" />
+    <configuration name="LargestAmongThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.LargestAmongThree" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +166,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Square" />
+    <configuration name="LargestNoInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.LargestNoInArray" />
+      <module name="ATB5xjavaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareofN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.SquareofN" />
+      <module name="ATB5xjavaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XpowerY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.XpowerY" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Square" />
-        <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Lab056" />
-        <item itemvalue="Application.Lab055" />
+        <item itemvalue="Application.LargestAmongThree" />
+        <item itemvalue="Application.LargestNoInArray" />
+        <item itemvalue="Application.XpowerY" />
+        <item itemvalue="Application.SquareofN" />
+        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -246,5 +273,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="2" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

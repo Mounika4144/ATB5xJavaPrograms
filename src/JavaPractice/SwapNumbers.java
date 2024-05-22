@@ -8,7 +8,7 @@ public class SwapNumbers {
 
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Swapping of teo numbers");
+        System.out.println("Swapping of tw numbers");
         System.out.println("Enter value of a");
         int a = sc.nextInt();
 

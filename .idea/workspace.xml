@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/CelsiusTofahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_06_Jan_2024/Lab056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Lab054.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Lab055.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/School.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/LargestAmongThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/XpowerY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Grandfather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/School.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab053.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/ASCII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/SwapNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/SwapNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/SwapNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/SwapNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +56,7 @@
     "Application.ASCII.executor": "Run",
     "Application.CelsiusTofahrenheit.executor": "Run",
     "Application.Circle.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -97,9 +112,19 @@
     "Application.Lab055.executor": "Run",
     "Application.Lab056.executor": "Run",
     "Application.Labo014.executor": "Run",
+    "Application.LargestAmongThree.executor": "Run",
+    "Application.LargestNoInArray.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.OddorEven.executor": "Run",
+    "Application.PositiveNegative.executor": "Run",
+    "Application.QuadraticEquation.executor": "Run",
     "Application.Rectangle.executor": "Run",
     "Application.Square.executor": "Debug",
+    "Application.SquareofN.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
+    "Application.VowelorConsonant.executor": "Run",
+    "Application.XpowerY.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -116,9 +141,9 @@
       <recent name="C:\Users\mouni\IdeaProjects\ATB5xjavaprograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwapNumbers">
-    <configuration name="ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.ASCII" />
+  <component name="RunManager" selected="Application.Multiplication">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Factorial" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CelsiusTofahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.CelsiusTofahrenheit" />
+    <configuration name="LargestAmongThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.LargestAmongThree" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Circle" />
+    <configuration name="LargestNoInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.LargestNoInArray" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Square" />
+    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Multiplication" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.SwapNumbers" />
+    <configuration name="XpowerY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.XpowerY" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -184,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapNumbers" />
-        <item itemvalue="Application.CelsiusTofahrenheit" />
-        <item itemvalue="Application.ASCII" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Square" />
+        <item itemvalue="Application.Multiplication" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.LargestAmongThree" />
+        <item itemvalue="Application.LargestNoInArray" />
+        <item itemvalue="Application.XpowerY" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +263,11 @@
           <url>file://$PROJECT_DIR$/src/basics_06_24Dec/Lab044.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaPractice/Multiplication.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/basics_06_24Dec/Lab042.java</url>
