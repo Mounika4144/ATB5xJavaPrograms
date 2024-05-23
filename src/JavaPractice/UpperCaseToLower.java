@@ -8,9 +8,9 @@ public class UpperCaseToLower {
 
         char[] character = input.toCharArray();
 
-        for (int i =0; i< character.length; i++){
-            if(character
+        /*for (int i =0; i< character.length; i++){
+            if(character*/
 
         }
     }
-}
+

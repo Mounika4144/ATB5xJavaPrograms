@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Lab054.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Lab055.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/Oops_07_20Dec/School.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/LargestAmongThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/XpowerY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Grandfather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Inheritance/father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/InheritanceCalc/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_07_20Dec/InheritancePractice/Lab055.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/ASCII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/SwapNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/JavaPractice/SwapNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPractice/ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/ASCII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPractice/SwapNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/SwapNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/UpperCaseToLower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/UpperCaseToLower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +40,7 @@
     "Application.ASCII.executor": "Run",
     "Application.CelsiusTofahrenheit.executor": "Run",
     "Application.Circle.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
@@ -141,7 +126,20 @@
       <recent name="C:\Users\mouni\IdeaProjects\ATB5xjavaprograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Multiplication">
+  <component name="RunManager" selected="Application.Lab055">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.InheritanceCalc.Demo" />
+      <module name="ATB5xjavaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Oops_07_20Dec.InheritanceCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.JavaPractice.Factorial" />
       <module name="ATB5xjavaprograms" />
@@ -155,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAmongThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.LargestAmongThree" />
+    <configuration name="Lab055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.InheritancePractice.Lab055" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.JavaPractice.*" />
+          <option name="PATTERN" value="src.Oops_07_20Dec.InheritancePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,8 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNoInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.LargestNoInArray" />
+    <configuration name="LargestAmongThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.LargestAmongThree" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -194,26 +192,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpowerY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.JavaPractice.XpowerY" />
-      <module name="ATB5xjavaprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.JavaPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab055" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Multiplication" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.LargestAmongThree" />
-        <item itemvalue="Application.LargestNoInArray" />
-        <item itemvalue="Application.XpowerY" />
       </list>
     </recent_temporary>
   </component>
