@@ -1,4 +1,4 @@
-package src.Oops_07_20Dec.InheritancePractice;
+package src.Oops_07_20Dec.ConstructerPractice;
 
 public class ATBPerson {
 
@@ -12,11 +12,12 @@ public class ATBPerson {
         System.out.println("I am called");
     }
 
+
+    // param constructer
     ATBPerson(String name ){
-        this.name = "Mounika";
+        this.name = name;
         System.out.println("I am called");
     }
-
 
     void talk(){
        // System.out.println("The person can talk");
@@ -28,5 +29,9 @@ public class ATBPerson {
     void walk(){
         System.out.println("The person can walk");
         System.out.println(name);
+    }
+
+    void printdetails(){
+        System.out.println(this.name);
     }
 }
