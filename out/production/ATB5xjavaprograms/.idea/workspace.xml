@@ -7,6 +7,8 @@
     <list default="true" id="521f2f36-b870-4830-85a9-368998a637df" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xjavaprograms/src/oops_14_jan_2024/Throw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops_14_jan_2024/Throw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops_14_jan_2024/Throwpractice/Throw.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +111,12 @@
     "Application.Lab062.executor": "Run",
     "Application.Lab063.executor": "Run",
     "Application.Lab064.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
     "Application.Labo014.executor": "Run",
     "Application.LargestAmongThree.executor": "Run",
     "Application.LargestNoInArray.executor": "Run",
@@ -122,6 +130,7 @@
     "Application.SquareofN.executor": "Run",
     "Application.SwapNumbers.executor": "Run",
     "Application.Thief.executor": "Run",
+    "Application.Throw.executor": "Run",
     "Application.VowelorConsonant.executor": "Run",
     "Application.XpowerY.executor": "Run",
     "Application.src.Oops_07_20Dec.Encapsulation.Lab062.executor": "Run",
@@ -133,7 +142,8 @@
     "last_opened_file_path": "C:/Users/mouni/IdeaProjects/ATB5xjavaprograms/src/basics",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -142,9 +152,9 @@
       <recent name="C:\Users\mouni\IdeaProjects\ATB5xjavaprograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exception">
-    <configuration name="Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.oops_14_jan_2024.Exceptions.Exception" />
+  <component name="RunManager" selected="Application.Lab071">
+    <configuration name="Lab068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.oops_14_jan_2024.Exceptions.Lab068" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
@@ -156,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.Interface.I1" />
+    <configuration name="Lab069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections.Lab069" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Oops_07_20Dec.Interface.*" />
+          <option name="PATTERN" value="src.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.poly.polypractice.IV1" />
+    <configuration name="Lab070" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections.Lab070" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Oops_07_20Dec.poly.polypractice.*" />
+          <option name="PATTERN" value="src.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab063" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_07_20Dec.poly.methodoverriding.Lab063" />
+    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Collections.Lab071" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Oops_07_20Dec.poly.methodoverriding.*" />
+          <option name="PATTERN" value="src.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.oops_14_jan_2024.Lab064" />
+    <configuration name="Throw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.oops_14_jan_2024.Throwpractice.Throw" />
       <module name="ATB5xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.oops_14_jan_2024.*" />
+          <option name="PATTERN" value="src.oops_14_jan_2024.Throwpractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exception" />
-        <item itemvalue="Application.Lab064" />
-        <item itemvalue="Application.I1" />
-        <item itemvalue="Application.IV1" />
-        <item itemvalue="Application.Lab063" />
+        <item itemvalue="Application.Lab071" />
+        <item itemvalue="Application.Lab070" />
+        <item itemvalue="Application.Lab069" />
+        <item itemvalue="Application.Throw" />
+        <item itemvalue="Application.Lab068" />
       </list>
     </recent_temporary>
   </component>

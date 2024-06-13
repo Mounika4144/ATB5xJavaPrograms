@@ -1,4 +1,4 @@
-package src.oops_14_jan_2024;
+package src.oops_14_jan_2024.Throwpractice;
 
 public class Throw {
     public static void main(String[] args) {
